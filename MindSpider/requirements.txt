@@ -53,3 +53,4 @@ pyhumps==3.8.0
 beautifulsoup4
 lxml
 loguru
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
